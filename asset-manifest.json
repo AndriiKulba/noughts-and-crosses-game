@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/noughts-and-crosses-game/static/css/main.a617e044.chunk.css",
+    "main.js": "/noughts-and-crosses-game/static/js/main.aacd3d77.chunk.js",
+    "main.js.map": "/noughts-and-crosses-game/static/js/main.aacd3d77.chunk.js.map",
+    "runtime-main.js": "/noughts-and-crosses-game/static/js/runtime-main.a5e4afd1.js",
+    "runtime-main.js.map": "/noughts-and-crosses-game/static/js/runtime-main.a5e4afd1.js.map",
+    "static/js/2.801231e4.chunk.js": "/noughts-and-crosses-game/static/js/2.801231e4.chunk.js",
+    "static/js/2.801231e4.chunk.js.map": "/noughts-and-crosses-game/static/js/2.801231e4.chunk.js.map",
+    "static/js/3.45767d4c.chunk.js": "/noughts-and-crosses-game/static/js/3.45767d4c.chunk.js",
+    "static/js/3.45767d4c.chunk.js.map": "/noughts-and-crosses-game/static/js/3.45767d4c.chunk.js.map",
+    "index.html": "/noughts-and-crosses-game/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/noughts-and-crosses-game/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.801231e4.chunk.js.LICENSE.txt": "/noughts-and-crosses-game/static/js/2.801231e4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/noughts-and-crosses-game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e4afd1.js",
+    "static/js/2.801231e4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.aacd3d77.chunk.js"
+  ]
+}
