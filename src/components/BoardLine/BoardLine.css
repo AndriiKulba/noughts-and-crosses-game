@@ -1,0 +1,73 @@
+.lineVertical {
+  position: absolute;
+  left: 175px;
+  top: -5px;
+  width: 10px;
+  height: 550px;
+  border-radius: 10px;
+  background-color: rgb(169, 85, 191);
+}
+.secondaryV {
+  left: 355px;
+}
+.lineGorisontal {
+  position: absolute;
+  top: 175px;
+  left: -5px;
+  width: 550px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: rgb(169, 85, 191);
+}
+.secondaryG {
+  top: 355px;
+}
+
+.winnerLine {
+  position: absolute;
+  width: 10px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: rgb(175, 62, 56);
+}
+.L1 {
+  top: 20px;
+  left: 265px;
+  transform: rotate(90deg);
+}
+
+.L2 {
+  top: 200px;
+  left: 265px;
+  transform: rotate(90deg);
+}
+.L3 {
+  top: 20px;
+  left: 85px;
+}
+.L4 {
+  top: 20px;
+  left: 265px;
+}
+.L5 {
+  top: 20px;
+  left: 445px;
+}
+.L6 {
+  top: 0px;
+  left: 265px;
+  height: 540px;
+  transform: rotate(-45deg);
+}
+.L7 {
+  top: 0px;
+  left: 265px;
+  height: 540px;
+  transform: rotate(45deg);
+}
+
+.L0 {
+  top: -160px;
+  left: 265px;
+  transform: rotate(90deg);
+}

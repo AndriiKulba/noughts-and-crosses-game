@@ -1,0 +1,78 @@
+.Form {
+  position: relative;
+  width: 300px;
+  height: 100px;
+  background-color: white;
+  margin: auto;
+  padding: 55px;
+
+  margin-top: 15px;
+}
+.Field {
+  position: relative;
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+  width: 300px;
+}
+.Field input {
+  position: relative;
+  padding: 4px;
+  padding-top: 8px;
+  padding-left: 10px;
+  border: 1px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+  color: black;
+  font-style: italic;
+
+  border-bottom: 1px solid rgb(131, 128, 128);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1;
+}
+
+.Field input:focus {
+  border: 1px solid blue;
+  outline: none;
+}
+
+/* .Field input:focus + .p1,
+.Field input:focus + .p2 {
+  color: rgb(185, 181, 181);
+  top: 0px;
+  left: 8px;
+  transform: translateY(-100%);
+} */
+
+.p1,
+.p2 {
+  position: absolute;
+  top: -8px;
+  left: 8px;
+  transform: translateY(-50%);
+  font-size: 14px;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+  padding: 0px 2px;
+
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+
+  color: rgb(131, 128, 128);
+  z-index: 2;
+}
+.Btn {
+  padding: 5px;
+
+  cursor: pointer;
+  color: black;
+  outline: none;
+  border-color: rgb(131, 128, 128);
+
+  border-radius: 10%;
+}

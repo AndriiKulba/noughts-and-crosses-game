@@ -1,0 +1,9 @@
+.Board {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  width: 540px;
+  height: 540px;
+  margin: -5px;
+}
+

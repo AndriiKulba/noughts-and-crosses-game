@@ -1,0 +1,15 @@
+.Playerboard {
+  width: 330px;
+
+  font-size: 28px;
+  color: rgb(255, 255, 255);
+}
+
+.winnerPlayer {
+  color: red;
+}
+
+.winnerPlayer,
+.activePlayer {
+  height: 200px;
+}
